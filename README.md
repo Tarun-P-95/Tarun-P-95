@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tarun-p](https://www.linkedin.com/in/tarun-parashuramappanavara/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tarun-parashuramappanavara/))
 [![Gmail](https://img.shields.io/badge/Email-p386tarun%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p386tarun@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tarun--P--95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarun-P-95)
 [![Phone](https://img.shields.io/badge/Call-%2B91%207022851412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917022851412)

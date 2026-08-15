@@ -167,24 +167,6 @@ A desktop app (Tkinter + Matplotlib) for tracking income, expenses, savings, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:2c5364&height=3&width=100%" width="100%"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarun-P-95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-P-95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Tarun-P-95&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun-P-95&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="95%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:2c5364&height=3&width=100%" width="100%"/>
 
 ## 🛰️ Positions of Responsibility
 

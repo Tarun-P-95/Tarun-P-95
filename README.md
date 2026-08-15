@@ -29,7 +29,6 @@ module tarun_p (
     parameter INSTITUTE = "NIT Warangal";
     parameter BRANCH     = "Electronics & Communication Engineering";
     parameter YEAR       = "3rd Year (Batch of 2028)";
-    parameter CGPA       = 8'd741;    // /1000, trending upward 📈
     parameter MISSION    = "Gates -> RTL -> Silicon";
 
     initial focus = 8'hFF;            // fully committed
@@ -38,9 +37,7 @@ endmodule
 
 - 🔭 Currently architecting **RTL-based neural network inference engines** on FPGA — no CPU required.
 - ⚡ Deep in the world of **finite-state machines, fixed-point arithmetic, and memory-mapped protocols**.
-- 🌱 Sharpening the fundamentals with an **RTL-to-GDSII flow course** and hands-on Vivado/Quartus work.
 - 🎯 Long-term target: become a strong **Digital / VLSI / Hardware Engineer** — GATE/postgrad or direct core placements, whichever door opens first.
-- 🛰️ Executive Member @ **Satellite and Electronics Amateur Club**, NIT Warangal — co-run Arduino & embedded workshops for juniors.
 - 💬 Ask me about: **FSM design, fixed-point MAC pipelines, UART interfacing, AMBA AXI4-Lite, or TTL logic builds.**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:2c5364&height=3&width=100%" width="100%"/>

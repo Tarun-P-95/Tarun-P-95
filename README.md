@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Hardware+that+Thinks+%F0%9F%A7%A0;RTL+Designer+%7C+VLSI+Enthusiast+%E2%9A%A1;18-State+FSMs+%26+Fixed-Point+MACs;NIT+Warangal+%7C+ECE+%2726+Batch;From+Gates+to+GDSII+%F0%9F%94%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Hardware+that+Thinks+%F0%9F%A7%A0;RTL+Designer+%7C+VLSI+Enthusiast+%E2%9A%A1;18-State+FSMs+%26+Fixed-Point+MACs;NIT+Warangal+%7C+ECE+%2728+Batch;From+Gates+to+GDSII+%F0%9F%94%A9" alt="Typing SVG" />
 
 <br/><br/>
 

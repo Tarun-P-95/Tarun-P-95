@@ -101,7 +101,7 @@ endmodule
 <td width="50%" valign="top">
 
 ### 🔢 [FPGA-Based MNIST Digit Recognizer](https://github.com/Tarun-P-95/fpga-mlp-mnist-accelerator)
-**RTL & FPGA Implementation** &nbsp;•&nbsp; `Jan 2026 – Apr 2026`
+**RTL & FPGA Implementation** &nbsp;•&nbsp; 
 
 A CPU-free neural network accelerator, entirely in RTL.
 
@@ -115,7 +115,7 @@ A CPU-free neural network accelerator, entirely in RTL.
 <td width="50%" valign="top">
 
 ### 🔗 AMBA AXI4-Lite Slave Peripheral
-**RTL Design** &nbsp;•&nbsp; `Jul 2026 – Aug 2026`
+**RTL Design** &nbsp;•&nbsp;
 
 A fully compliant memory-mapped peripheral built from first principles.
 
@@ -131,7 +131,7 @@ A fully compliant memory-mapped peripheral built from first principles.
 <td width="50%" valign="top">
 
 ### 🎲 3-Bit Timed Binary Guessing Game
-**Digital IC Implementation** &nbsp;•&nbsp; `Mar 2026 – Apr 2026`
+**Digital IC Implementation** &nbsp;•&nbsp;
 
 A microcontroller-free hardware game built entirely from discrete logic.
 
